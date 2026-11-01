@@ -1,2 +1,3 @@
 # HorizonRelay
 Horizon Relay is a Mod Management platform designed for Forza Horizon 6 that simplifies mod packaging, installation, and project development. Built with creators in mind you will also find a number of organizational elements to streamline your productivity. This Mod Manager is also a standalone mod loader, no need to use creation tools if unwanted.
+[ PROJECT ON HOLD ] I stopped actively developing this, may continue in the future....
